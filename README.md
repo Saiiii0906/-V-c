@@ -4,6 +4,8 @@
 
 **निरVāc** is a real-time sign language translator designed to bridge communication gaps for the deaf and hard-of-hearing community. This project combines a powerful machine learning model with a minimal, privacy-first, and accessible user interface.
 
+**Please note: This repository currently contains only the front-end portion of our project, showcasing the UI/UX design and the complete landing page.**
+
 ## 🚀 Real-Time Translation in Action
 
 The core of our project is the machine learning model that interprets hand gestures from a live video feed. The model identifies hand landmarks, classifies the sign, and constructs sentences from the recognized gestures.
